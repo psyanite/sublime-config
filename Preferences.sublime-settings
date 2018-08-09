@@ -5,5 +5,7 @@
 	[
 		"Vintage"
 	],
-	"theme": "Material-Theme-Palenight.sublime-theme"
+	"theme": "Material-Theme-Palenight.sublime-theme",
+	 "line_padding_bottom": 2,
+ 	 "line_padding_top": 2
 }
