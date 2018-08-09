@@ -10,4 +10,5 @@
 9. Clone repository into the `User` folder
 9. Start Sublime
 10. Wait
-11. Celebrate 🎉
+11. `Preferences > Color Scheme > Palenight`
+12. Celebrate 🎉
