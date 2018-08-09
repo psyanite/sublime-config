@@ -1,11 +1,11 @@
 {
 	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Palenight.tmTheme",
 	"font_size": 13,
+	"line_padding_bottom": 2,
+ 	"line_padding_top": 2,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
-	"theme": "Material-Theme-Palenight.sublime-theme",
-	 "line_padding_bottom": 2,
- 	 "line_padding_top": 2
+	"theme": "Material-Theme-Palenight.sublime-theme"
 }
