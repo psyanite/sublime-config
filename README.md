@@ -3,10 +3,11 @@
 1. Install Sublime Text
 2. Open Sublime Text
 3. `Preferences > Browse Packages`
-4. Remove the User folder
+4. Delete the `User` folder
 5. Install Package Control
 6. Close Sublime
-7. Clone repository into the User folder
-8. Start Sublime
-9. Wait
-10. Celebrate 🎉
+7. Create an empty `User` folder
+9. Clone repository into the `User` folder
+9. Start Sublime
+10. Wait
+11. Celebrate 🎉
