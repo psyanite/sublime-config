@@ -5,7 +5,7 @@
 3. `Preferences > Browse Packages`
 4. Delete the `User` folder
 5. `Ctrl + ⇧ + P`
-6. Install Package Control
+6. Enter `Install Package Control`
 7. Close Sublime
 8. Create an empty `User` folder
 9. Clone repository into the `User` folder
